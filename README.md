@@ -9,5 +9,5 @@
 ✔️ Contact me
 <!-- ✔️ Memories -->
 
-To view a live example, **[click here](https://gauravkr2506.github.io/)**
+To view a live example, **[click here](https://gauravkr2506.github.io/myportfolio)**
 
