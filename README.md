@@ -7,7 +7,7 @@
 ✔️ Certifications 🏆\
 ✔️ Education\
 ✔️ Contact me
-✔️ Memories
+<!-- ✔️ Memories -->
 
-To view a live example, **[click here](https://tanya-goel.github.io/my_wiki/)**
+To view a live example, **[click here](https://gauravkr2506.github.io/)**
 
