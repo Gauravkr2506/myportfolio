@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0c106f44b184d3fc0e91c4905cd7966",
+    "revision": "9b5ebebc6c0672b9391b53f28baa501b",
     "url": "/myportfolio/index.html"
   },
   {
-    "revision": "ab45122e0120d9c9cc48",
+    "revision": "f9dc8991740176a05937",
     "url": "/myportfolio/static/css/main.dd7938dc.chunk.css"
   },
   {
-    "revision": "71dd66eaf03546744ad3",
-    "url": "/myportfolio/static/js/2.7c10cdcc.chunk.js"
+    "revision": "79777b8b906667f4566c",
+    "url": "/myportfolio/static/js/2.bc28ae0e.chunk.js"
   },
   {
     "revision": "254c01d1a3c7d8124adf4c35e46b76e3",
-    "url": "/myportfolio/static/js/2.7c10cdcc.chunk.js.LICENSE.txt"
+    "url": "/myportfolio/static/js/2.bc28ae0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab45122e0120d9c9cc48",
-    "url": "/myportfolio/static/js/main.f683cc5d.chunk.js"
+    "revision": "f9dc8991740176a05937",
+    "url": "/myportfolio/static/js/main.563d133d.chunk.js"
   },
   {
     "revision": "da2e02db1e870a8bb8e5",
@@ -216,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myportfolio/static/media/fullstack.589bec7d.svg"
   },
   {
+    "revision": "0c739d14fd4f9338b13618c9271818aa",
+    "url": "/myportfolio/static/media/gaurav.0c739d14.jpg"
+  },
+  {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
     "url": "/myportfolio/static/media/gcp_logo.ba18401b.png"
   },
@@ -236,6 +240,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myportfolio/static/media/h.ece1fa21.jpg"
   },
   {
+    "revision": "c2ab50b79f685cd93f0733a73b0bcbb7",
+    "url": "/myportfolio/static/media/healthmug.c2ab50b7.jpg"
+  },
+  {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
     "url": "/myportfolio/static/media/ibm_logo.6d325fec.png"
   },
@@ -246,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7757edcd0b5f7f5560f38a86689b8240",
     "url": "/myportfolio/static/media/img.7757edcd.jpg"
+  },
+  {
+    "revision": "ac7ad9ddc9bdb1554c330ef27213106a",
+    "url": "/myportfolio/static/media/info-space-export.ac7ad9dd.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
