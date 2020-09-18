@@ -65,7 +65,7 @@ export default class Main extends Component {
 							)}
 						/>
 						
-						{/* <Route
+						<Route
 							path="/projects"
 							render={(props) => (
 								<Projects
@@ -73,7 +73,7 @@ export default class Main extends Component {
 									theme={this.props.theme}
 								/>
 							)}
-						/> */}
+						/>
 
 
 

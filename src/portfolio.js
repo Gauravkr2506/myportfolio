@@ -135,8 +135,8 @@ const settings = {
 	  {
 		title: "Dr. APJ Abdul Kalam Technical University,Lucknow",
 		subtitle: "B.Tech. in Computer Science & Engineering",
-	  //   logo_path: "iiitk_logo.png",
-	  //   alt_name: "IIITDM Kurnool",
+	    logo_path: "new-images/aktu.png",
+	    alt_name: "AKTU",
 		duration: "2013 - 2017",
 		descriptions: [
 		  "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
@@ -335,7 +335,7 @@ Apart from company work, for sake of learning I also work on my own projects.`,
    const projectsHeader = {
 	  title: "Projects",
 	  description:
-		  "My projects makes use of vast variety of latest technology tools. My best experience is to create web applications.",
+		  "My projects makes use of vast variety of latest technology tools. My best experience is to create web applications with React and mobile application with React-Native.",
 	  avatar_image_path: "projects_image.svg",
    };
 	
