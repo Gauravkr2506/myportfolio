@@ -45,7 +45,7 @@ export default class Main extends Component {
 								/>
 							)}
 						/> */}
-						{/* <Route
+						<Route
 							path="/education"
 							render={(props) => (
 								<Education
@@ -53,7 +53,7 @@ export default class Main extends Component {
 									theme={this.props.theme}
 								/>
 							)}
-						/> */}
+						/>
 						{/* <Route
 							path="/opensource"
 							render={(props) => (
