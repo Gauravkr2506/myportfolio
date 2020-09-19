@@ -9,7 +9,7 @@ const settings = {
    //Home Page
    const greeting = {
 	  title: "Gaurav",
-	  logo_name: "Gaurav kr",
+	  logo_name: "Gaurav",
 	  nickname: "Software Engineer",
 	  subTitle:
 		  "A passionate individual who always seeks to work in a challenging environment for the sake of applying knowledge gained during engineering towards the success of an organisation.",
