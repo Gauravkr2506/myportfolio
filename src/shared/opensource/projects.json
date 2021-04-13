@@ -105,5 +105,97 @@
             {"name":"JavaScript","iconifyClass":"logos-javascript"},
             {"name":"React Native","iconifyClass":"logos-react"}
         ]
+    },
+
+
+
+
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=10",
+        "name":"Joke Teller","url":"https://gauravkr2506.github.io/JokeTeller/",
+        "description":"Simple responsive web app",
+        "isFork":false,
+        "languages":[
+            
+           
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=11",
+        "name":"Picture in picture","url":"https://gauravkr2506.github.io/pictureInPicture/",
+        "description":"Web app for picture in picture",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=12",
+        "name":"Infinite scroll images","url":"https://gauravkr2506.github.io/InfiniteScrollImages/",
+        "description":"Responsive web app for infinite scroll images",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=14",
+        "name":"Quote generator","url":"https://gauravkr2506.github.io/quote-generator/",
+        "description":"Responsive web app to generate quotes and share it on twitter",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=15",
+        "name":"User List","url":"https://gauravkr2506.github.io/usersList/",
+        "description":"React web app collect data of user and show it in list with pagination, sorting and search filter",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"},
+            {"name":"React","iconifyClass":"logos-react"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=16",
+        "name":"Space-X Launch","url":"https://space-x-launch-report.herokuapp.com/",
+        "description":"Responsive React SSR web app",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"},
+            {"name":"React","iconifyClass":"logos-react"},
+            {"name":"Node JS","iconifyClass":"logos-nodejs"}
+        ]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=17",
+        "name":"Dark and light mode","url":"https://gauravkr2506.github.io/DarkAndLightMode/",
+        "description":"Web app with dark and light theme",
+        "isFork":false,
+        "languages":[
+            
+            { "name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+        ]
     }
 ]}
