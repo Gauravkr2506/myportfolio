@@ -145,7 +145,7 @@ const certifications = {
       certificate_link:
         "https://www.udemy.com/certificate/UC-dbcb067a-0318-44dd-83b3-0d839ddb64b0/",
       alt_name: "Udemy",
-      color_code: "#8C151599",
+      color_code: "#ffff1599",
     },
     {
       title: "Advanced Javascript",
@@ -154,7 +154,7 @@ const certifications = {
       certificate_link:
         "https://www.udemy.com/certificate/UC-48651dc1-794d-44e0-8782-99326b5a1f9e/",
       alt_name: "Udemy",
-      color_code: "#8C151599",
+      color_code: "#80099599",
     },
     {
       title: "Complete React Hooks Course 2020: A - Z ( Scratch to React )",
